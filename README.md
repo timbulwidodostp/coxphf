@@ -1,6 +1,8 @@
 # coxphf
 Cox Regression with Firth's Penalized Likelihood Use coxphf With (In) R Software
 
+https://www.youtube.com/watch?v=qvHrIw711m8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
